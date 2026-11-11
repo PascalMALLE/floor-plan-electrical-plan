@@ -26,7 +26,7 @@ Plan de maison et son installation électrique, réalisé sous AutoCAD.
 - Légende des symboles
 
 ## Outils
-- AutoCAD (version : à compléter)
+- AutoCAD 2022
 
 ## Auteur
 Pascal, Ingénieur d'État GEET (AIAC, Casablanca)
